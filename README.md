@@ -1,2 +1,3 @@
 # Globslsources_mushi
 2025年開始，專門針對Globslsources這個網站的爬蟲程式，期望可以減少蒐集攤位資訊的作業時間，並提升資料的完整度。
+注意:使用前請先將chrome更新到最新版
